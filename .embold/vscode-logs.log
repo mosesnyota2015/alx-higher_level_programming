@@ -5,3 +5,10 @@
 2023-09-05 01:41:43 error: SQLITE_ERROR: no such table: issues
 2023-09-05 01:41:57 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
 2023-09-05 01:41:57 error: SQLITE_ERROR: no such table: issues
+2023-09-05 01:45:55 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 01:45:55 error: SQLITE_ERROR: no such table: issues
+2023-09-05 01:46:05 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 01:46:05 error: SQLITE_ERROR: no such table: issues
+2023-09-05 01:48:57 info: tempDirectory:c:\Users\user\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-09-05 01:48:57 info: Extraction complete for source: c:\Users\user\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\user\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-09-05 01:48:57 info: Congratulations, your extension "Embold" is now active!
