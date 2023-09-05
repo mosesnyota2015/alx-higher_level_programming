@@ -12,3 +12,47 @@
 2023-09-05 01:48:57 info: tempDirectory:c:\Users\user\.vscode\extensions\embold-vscode.embold-0.1.5\temp
 2023-09-05 01:48:57 info: Extraction complete for source: c:\Users\user\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\user\.vscode\extensions\embold-vscode.embold-0.1.5\temp
 2023-09-05 01:48:57 info: Congratulations, your extension "Embold" is now active!
+2023-09-05 01:50:09 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 01:50:09 error: SQLITE_ERROR: no such table: issues
+2023-09-05 01:50:13 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 01:50:13 error: SQLITE_ERROR: no such table: issues
+2023-09-05 01:50:19 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/refs/remotes/origin/main.lock
+2023-09-05 01:50:19 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:00:30 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 02:00:30 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:00:59 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 02:00:59 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:01:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/refs/remotes/origin/main.lock
+2023-09-05 02:01:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:03 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/0-run
+2023-09-05 02:12:03 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:03 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/2-print.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/101-compile
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/100-write.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+2023-09-05 02:12:04 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:04 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:24 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 02:12:24 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:12:52 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/index.lock
+2023-09-05 02:12:52 error: SQLITE_ERROR: no such table: issues
+2023-09-05 02:13:01 info: file:///c%3A/Users/user/OneDrive/Desktop/alx-higher_level_programming/.git/refs/remotes/origin/main.lock
+2023-09-05 02:13:01 error: SQLITE_ERROR: no such table: issues
